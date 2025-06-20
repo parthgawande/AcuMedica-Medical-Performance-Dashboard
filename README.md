@@ -52,5 +52,30 @@ AcuMedica is a fully interactive Power BI dashboard developed to evaluate hospit
 
 ---
 
-## 📁 Repository Structure
+## 🛠 Tools Used
 
+- **Power BI Desktop** for building the dashboard
+- **DAX** for measures, KPIs, and calculated insights
+- **Power Query Editor** for data transformation
+- Simulated hospital data based on realistic healthcare metrics
+
+---
+
+## 🚀 How to Use
+
+> You’ll need [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+
+1. Clone/download this repository
+2. Open `AcuMedica_Dashboard.pbix` in Power BI Desktop
+3. Explore interactive visuals using slicers and filters
+
+---
+
+## 💡 Suggested Extensions
+
+- Add predictive analytics to evaluate risk-based treatment outcomes
+- Integrate patient satisfaction scores
+- Automate data refresh from a database or cloud service
+- Deploy using Power BI Embedded for secure enterprise access
+
+---
