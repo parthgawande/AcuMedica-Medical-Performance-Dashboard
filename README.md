@@ -16,17 +16,18 @@ AcuMedica is a fully interactive Power BI dashboard developed to evaluate hospit
 
 ## 🖼️ Dashboard Snapshots
 
-### 🔹 Hospital Insight Analysis
-![Hospital Insight Analysis](./hospital_insight_analysis.png)
+### 🔹 Hospital Insight Analysis  
+[![Hospital Insight Analysis](hospital%20insight%20analysis.png)](hospital%20insight%20analysis.png)
 
-### 🔹 Care Outcome Evaluation
-![Care Outcome Evaluation](./care_outcome_evaluation.png)
+### 🔹 Care Outcome Evaluation  
+[![Care Outcome Evaluation](Care%20Outcome%20Evaluation.png)](Care%20Outcome%20Evaluation.png)
 
-### 🔹 Treatment Timeline Trends
-![Treatment Timeline Trends](./treatment_timeline_trends.png)
+### 🔹 Treatment Timeline Trends  
+[![Treatment Timeline Trends](Treatment%20Timeline%20Trends.png)](Treatment%20Timeline%20Trends.png)
 
-### 🔹 Final Takeaways & Strategic Recommendations
-![Final Takeaways](./final_takeaways.png)
+### 🔹 Final Takeaways  
+[![Final Takeaways](Final%20Takeaways.png)](Final%20Takeaways.png)
+
 
 ---
 
